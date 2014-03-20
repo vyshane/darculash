@@ -70,7 +70,7 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_COLOR" value="a62f32" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -478,7 +478,7 @@
       <value>
         <option name="FOREGROUND" value="4b7089" />
         <option name="BACKGROUND" value="272423" />
-        <option name="EFFECT_COLOR" value="a60000" />
+        <option name="EFFECT_COLOR" value="a62f32" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -766,8 +766,7 @@
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b389c5" />
-        <option name="EFFECT_COLOR" value="b389c5" />
+        <option name="FOREGROUND" value="9f7ab0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -796,7 +795,7 @@
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="9876aa" />
+        <option name="FOREGROUND" value="9f7ab0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
