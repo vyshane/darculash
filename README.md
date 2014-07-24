@@ -1,4 +1,6 @@
-darculash
-=========
+# Darculash
 
-IntelliJ IDEA colour scheme based on Darcula
+An IntelliJ IDEA colour scheme based on Darcula.
+
+![Theme preview](http://www.node.mu/images/darculash_preview.png)
+
